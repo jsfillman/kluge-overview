@@ -13,8 +13,7 @@ kluge batch --help
 ```
 
 Here’s an example of the CLI help output:
-
-![Screenshot 2025-02-03 at 10.37.50 AM](./Screenshots/"Screenshot 2025-02-03 at 10.37.50 AM.png")
+<img width="1103" alt="Screenshot 2025-02-03 at 10 37 50 AM" src="https://github.com/user-attachments/assets/a93d4712-8ea7-4bad-88d8-8cc52334c23b" />
 
 ---
 
