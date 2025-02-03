@@ -90,3 +90,8 @@ In the following screenshot, we create a job that ran a simple image manipulatio
 5. Retrieve output when the job completes.
 
 Kluge simplifies batch processing on Kubernetes while keeping things intuitive and familiar!
+
+This project is in early stages, but expect exciting to come. It even runs on a Pi cluster!
+
+![picluster](https://github.com/user-attachments/assets/35f69063-d10a-4cf7-9e21-80948d6f155d)
+
