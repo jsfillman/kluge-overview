@@ -14,7 +14,7 @@ kluge batch --help
 
 Here’s an example of the CLI help output:
 
-![Screenshot 2025-02-03 at 10.37.50 AM](./Screenshots/Screenshot 2025-02-03 at 10.37.50 AM.png)
+![Screenshot 2025-02-03 at 10.37.50 AM](./Screenshots/"Screenshot 2025-02-03 at 10.37.50 AM.png")
 
 ---
 
