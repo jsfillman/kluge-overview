@@ -1,5 +1,10 @@
 # Kluge Quickstart Guide
 
+![kluge-logo](https://github.com/user-attachments/assets/c7454790-38cc-459c-bfcc-8ee95006935f)
+
+##### Kubernetes-Linux Unified Grid Engine
+
+
 ## What is Kluge?
 Kluge is a Kubernetes-native batch processing system that translates familiar `sbatch`-style job submissions into Kubernetes workloads, specifically leveraging Volcano for scheduling. This allows users to easily run compute-heavy batch jobs on Kubernetes while maintaining a familiar workflow.
 
@@ -60,12 +65,11 @@ kluge batch --watch my_first_job
 
 ## Step 3a: Optional Popup for Job Monitoring
 If enabled, Kluge can show a more detailed job monitoring popup:
-
-![Screenshot 2025-02-03 at 10.31.50 AM](/Users/simian/Desktop/Screenshots/Screenshot 2025-02-03 at 10.31.50 AM.png)
-
-![Screenshot 2025-02-03 at 10.31.56 AM](/Users/simian/Desktop/Screenshots/Screenshot 2025-02-03 at 10.31.56 AM.png)
+<img width="712" alt="Screenshot 2025-02-03 at 10 31 56 AM" src="https://github.com/user-attachments/assets/eda43fda-f78d-4d76-8a11-b9d203bcb18f" />
 
 This view provides real-time CPU, memory usage, and node allocation.
+
+<img width="289" alt="Screenshot 2025-02-03 at 10 31 50 AM" src="https://github.com/user-attachments/assets/b46fc4ab-92ff-4a12-80f0-5f08d0bf1ad0" />
 
 ---
 
@@ -74,7 +78,7 @@ Once the job completes, output files will be placed in the *user’s desktop* or
 
 In the following screenshot, we create a job that ran a simple image manipulation script. The output for each host appears on the desktop.
 
-![Screenshot 2025-02-03 at 10.58.53 AM](/Users/simian/Desktop/Screenshots/Screenshot 2025-02-03 at 10.58.53 AM.png)
+<img width="836" alt="Screenshot 2025-02-03 at 10 58 53 AM" src="https://github.com/user-attachments/assets/8996a3be-75c2-4504-a423-ca01304c57f6" />
 
 ---
 
