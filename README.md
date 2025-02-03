@@ -64,11 +64,12 @@ kluge batch --watch my_first_job
 
 ## Step 3a: Optional Popup for Job Monitoring
 If enabled, Kluge can show a more detailed job monitoring popup:
-<img width="712" alt="Screenshot 2025-02-03 at 10 31 56 AM" src="https://github.com/user-attachments/assets/eda43fda-f78d-4d76-8a11-b9d203bcb18f" />
+
+<img width="289" alt="Screenshot 2025-02-03 at 10 31 50 AM" src="https://github.com/user-attachments/assets/b46fc4ab-92ff-4a12-80f0-5f08d0bf1ad0" />
 
 This view provides real-time CPU, memory usage, and node allocation.
 
-<img width="289" alt="Screenshot 2025-02-03 at 10 31 50 AM" src="https://github.com/user-attachments/assets/b46fc4ab-92ff-4a12-80f0-5f08d0bf1ad0" />
+<img width="712" alt="Screenshot 2025-02-03 at 10 31 56 AM" src="https://github.com/user-attachments/assets/eda43fda-f78d-4d76-8a11-b9d203bcb18f" />
 
 ---
 
