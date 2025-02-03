@@ -1,12 +1,11 @@
 # Kluge Quickstart Guide
 
-![kluge-logo](https://github.com/user-attachments/assets/c7454790-38cc-459c-bfcc-8ee95006935f)
-
 ##### Kubernetes-Linux Unified Grid Engine
+![kluge-logo](https://github.com/user-attachments/assets/c7454790-38cc-459c-bfcc-8ee95006935f)
 
 
 ## What is Kluge?
-Kluge is a Kubernetes-native batch processing system that translates familiar `sbatch`-style job submissions into Kubernetes workloads, specifically leveraging Volcano for scheduling. This allows users to easily run compute-heavy batch jobs on Kubernetes while maintaining a familiar workflow.
+Kluge is a Kubernetes-native batch processing system designed to be familiar for Slurm users while being accessible to newcomers. It converts simple, clean sbatch-style batch files into Kubernetes workloads seamlessly, using Volcano for scheduling. With a desktop-centric workflow, Kluge provides native status windows and delivers output directly to users' local machines, making job management seamless and intuitive.
 
 ---
 
