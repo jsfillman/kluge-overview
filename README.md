@@ -90,5 +90,3 @@ In the following screenshot, we create a job that ran a simple image manipulatio
 5. Retrieve output when the job completes.
 
 Kluge simplifies batch processing on Kubernetes while keeping things intuitive and familiar!
-
-For more details, check out the full documentation at [Kluge Docs](#).
